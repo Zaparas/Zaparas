@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zaparas Paschalis 
-- 👀 I’m interested in AI, Robotics and all thing software!
+- 👀 I’m interested in AI, Robotics and all things software!
 - 🌱 I’m currently learning about crossplatform applications
 - 💞️ I’m looking to collaborate on anything related to AI or Robotics, or applications
 - 📫 How to reach me:
