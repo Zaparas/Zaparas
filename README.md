@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zaparas Paschalis 
 - 👀 I’m interested in AI, Robotics,Full Stack and all things software!
-- 🌱 I’m currently improing my skills on Angular and team management
+- 🌱 I’m currently improing my skills on software Architecture and Could
 - 💞️ I’m looking to collaborate on anything related to AI or Robotics, or applications
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/paschalis-zaparas/
