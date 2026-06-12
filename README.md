@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zaparas Paschalis 
 - 👀 I’m interested in AI, Robotics,Full Stack and all things software!
-- 🌱 I’m currently improing my skills on software Architecture and Could
-- 💞️ I’m looking to collaborate on anything related to AI or Robotics, or applications
+- 🌱 I’m currently improing my skills on software Architecture and cloud development
+- 💞️ I’m looking to collaborate on anything related to AI or Robotics, or software applications
 - 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/paschalis-zaparas/
 - E-mail  : pasx.zap@gmail.com
